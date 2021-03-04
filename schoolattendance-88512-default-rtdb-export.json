@@ -1,0 +1,20 @@
+{
+  "class8A" : {
+    "01" : {
+      "name" : "'studentA'",
+      "roll_No" : 1
+    },
+    "02" : {
+      "name" : "'studentB'",
+      "roll_No" : 2
+    },
+    "03" : {
+      "name" : "'studentC'",
+      "roll_No" : 3
+    },
+    "04" : {
+      "name" : "'studentD'",
+      "roll_No" : "'studentE'"
+    }
+  }
+}
